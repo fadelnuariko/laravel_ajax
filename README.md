@@ -1,3 +1,5 @@
+ # Laravel simple CRUD with Ajax
+ 
  1. Run terminal on your directory  
   `composer self update --no-scripts`
   then
